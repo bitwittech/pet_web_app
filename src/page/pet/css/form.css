@@ -1,0 +1,36 @@
+input:focus {
+    outline: none !important; /* Remove default outline */
+    box-shadow: 0 0 0 0.2rem #F4BB54 !important; /* Example shadow effect */
+}
+input::placeholder {
+    color: rgba(128, 128, 128, 0.746) !important;
+    }
+
+.vector-1{
+    transform: rotate(0deg);
+    top: 20%;
+    left: -2%;
+}
+
+.vector-1 img{
+width: 250px;
+}
+
+.vector-2{
+    transform: rotate(0deg);
+    top: 50%;
+    right: -2%;
+}
+
+.vector-2 img{
+width: 250px;
+}
+.vector-3{
+    transform: rotate(0deg);
+    top: 60%;
+    left: -2%;
+}
+
+.vector-3 img{
+width: 250px;
+}
